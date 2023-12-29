@@ -259,10 +259,12 @@ header img {
   margin-top: 0.5vw;
   display: flex;
   gap: 1vw;
+  font-size: 4vw;
 }
 .info .beans-container .bean-img {
   max-width: 3vw;
   max-height: 3vw;
+  
 }
 
 .winner-container {
